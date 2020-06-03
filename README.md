@@ -8,7 +8,7 @@ A GraphSAGE based EEG analysis
 ### To Do: 
 ----
 #### Critical for SOTA: 
-- [ ] SEED dataset with accuracy of 86.08%, need to demonstrate improvement over DBN.
+- [ ] Kaggle grasp and lift dataset with AUC of 0.981. Need to come close or match.
 
 #### Tenative 
 - [ ] Code an implementation of the physionet left and right hand and rest physionet dataset that can be run consistently with stored weights. This should be a python script, that can run on console. 
