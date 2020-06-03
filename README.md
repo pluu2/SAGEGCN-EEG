@@ -7,6 +7,10 @@ A GraphSAGE based EEG analysis
 
 ### To Do: 
 ----
+#### Critical for SOTA: 
+- [ ] SEED dataset with accuracy of 86.08%, need to demonstrate improvement over DBN.
+
+#### Tenative 
 - [ ] Code an implementation of the physionet left and right hand and rest physionet dataset that can be run consistently with stored weights. This should be a python script, that can run on console. 
 - [ ] Create a comparable CNN example to demonstrate SOTA compared to standard. 
 - [ ] There has to be an analysis of why training is so unstable. I will have to research "Dev Sets" to ensure consistent results
