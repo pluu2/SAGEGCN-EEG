@@ -7,10 +7,9 @@ A GraphSAGE based EEG analysis
 
 ### To Do: 
 ----
-#### Critical for SOTA: 
-- [ ] Kaggle grasp and lift dataset with AUC of 0.981. Need to come close or match.
-  - [ ] Need to figure out how to parse the epochs to train the network. The way the epochs are detected is a bit odd but possible. 
-
+#### Critical for comparison: 
+- [ ] Repeated analysis of BCI II Data IV results on Conv2D and GraphSageGCN. 
+  - [ ] Initial data has demonstrated that GraphSAGEGCN out performs standard Conv2Ds in certain EEG classification tasks. I have noted that I have to wait for complete convergence of the model in order to make a conclusion about the analysis. Also I should not be direclty examining the testing data. 
 #### Tenative 
 - [ ] Code an implementation of the physionet left and right hand and rest physionet dataset that can be run consistently with stored weights. This should be a python script, that can run on console. 
 - [ ] Create a comparable CNN example to demonstrate SOTA compared to standard. 
