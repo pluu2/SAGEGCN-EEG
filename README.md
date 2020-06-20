@@ -5,6 +5,10 @@ A GraphSAGE based EEG analysis
 ![EEG Layout](https://github.com/pluu2/SAGEGCN-EEG/blob/master/EEG%20images.png)
 
 
+### Note: 
+Another group has published this! 
+https://arxiv.org/abs/2006.08924v1
+
 ### To Do: 
 ----
 #### Critical for comparison: 
